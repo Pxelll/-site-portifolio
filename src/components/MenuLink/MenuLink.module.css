@@ -1,0 +1,19 @@
+.link {
+    font-size: 1.25rem;
+    line-height: 1.5rem;
+    color: var(--cor-fonte-principal);
+}
+
+.linkDestacado {
+    text-decoration: underline;
+}
+
+.pending {
+    color: red;
+}
+
+.transitioning {
+    color: orange;
+}
+
+
